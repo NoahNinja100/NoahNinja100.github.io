@@ -79,6 +79,9 @@ const VIDEOS = [
   'rickroll.mp4',
   'space.mp4',
   'trolol.mp4'
+  'skull.mp4'
+  'ok.mp4'
+  'hacked.mp4'
 ]
 
 const FILE_DOWNLOADS = [
@@ -91,13 +94,18 @@ const FILE_DOWNLOADS = [
   'cat-small-face.jpg',
   'cat-smirk.jpg',
   'patreon.png'
+  'idiot1.jpeg'
+  'idiot3.jpg'
+  'idiot4.jpg'
+  'spongebob.jpg'
+  'youidiot.jpg'
 ]
 
 const PHRASES = [
-  'The wheels on the bus go round and round, round and round, round and round. The wheels on the bus go round and round, all through the town!',
-  'Dibidi ba didi dou dou, Di ba didi dou, Didi didldildidldidl houdihoudi dey dou',
-  'I like fuzzy kittycats, warm eyes, and pretending household appliances have feelings',
-  'I\'ve never seen the inside of my own mouth because it scares me to death.',
+  'YOU ARE AN IDIOT!',
+  'WHY DID YOU DO THIS?!',
+  'NO MORE COMPUTER!',
+  'Shut up',
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
   'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
