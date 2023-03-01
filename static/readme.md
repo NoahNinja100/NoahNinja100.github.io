@@ -1,4 +1,4 @@
-[![The Idiot You Are – The Power of the Web Platform](static/virus.jpg)](https://noahninja100.github.io/)
+[![The Idiot You Are – The Power of the Web Platform](virus.jpg)](https://noahninja100.github.io/)
 
 ### DEMO: [youareanidiot.com](https://noahninja100.github.io)
 
